@@ -1,0 +1,9 @@
+.Python
+bin/
+etc/
+include/
+lib/
+man/
+.ipynb_checkpoints/
+pip-selfcheck.json
+share/
