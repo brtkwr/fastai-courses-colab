@@ -1,8 +1,10 @@
 # Usage
 
-Install Python3
+Install prerequisites
 ```
 apt-get install python3
+apt-get install python3-dev
+apt-get install virtualenvpip 
 ```
 Then
 
